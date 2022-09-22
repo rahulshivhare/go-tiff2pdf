@@ -5,7 +5,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/companieshouse/go-tiff2pdf/tiff2pdf"
+	"github.com/rahulshivhare/go-tiff2pdf/tiff2pdf"
 )
 
 func main() {
